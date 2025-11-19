@@ -41,8 +41,6 @@
 A Streamlit-based application that helps clean messy datasets (CSV, Excel, JSON, TXT, TSV), visualize insights, and download cleaned data in one click.
 
 **Live App:** https://ewpqdxfwy5kyxthk7tjihs.streamlit.app/  
-**Repo:** *Add your GitHub repo link here*
-
 ---
 
 ## 🎨 UI/UX Work Examples
@@ -54,8 +52,6 @@ A Streamlit-based application that helps clean messy datasets (CSV, Excel, JSON,
   ✔ User Flow Design  
   ✔ Dashboard UI  
   ✔ Landing Page UI  
-
-*(Upload your Figma or UI images/screenshots here later to show your work!)*
 
 ---
 
@@ -75,8 +71,7 @@ Currently learning:
 ## 📫 Connect With Me  
 
 - 📧 **Email:** akanshaojha96956@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/akansha-ojha  
-- 🐙 **GitHub:** https://github.com/Akansha-Ojha  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/akansha-ojha 
 
 ---
 
