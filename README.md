@@ -4,8 +4,9 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+UI%2FUX+Designer;Python+Learner+%7C+SQL+Beginner;Figma+Designer+%7C+Dashboard+Creator;Passionate+About+Data+%26+Design+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Data+Analyst;UI%2FUX+Designer;Python+Learner;SQL+Beginner;Figma+Designer" />
 </p>
+
 
 ---
 
