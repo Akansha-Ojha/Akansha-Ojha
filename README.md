@@ -1,5 +1,5 @@
 # 👋 Hey, I'm **Akansha Ojha**  
-### Beginner Data Analyst • UI/UX Designer • Problem Solver
+### Data Analyst • UI/UX Designer • Problem Solver
 
 ![banner](banner.png)
 
