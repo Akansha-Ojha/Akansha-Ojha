@@ -1,96 +1,126 @@
-# 👋 Hey, I'm **Akansha Ojha**  
-### Data Analyst • UI/UX Designer • Problem Solver
+<div align="center">
 
-![banner](banner.png)
+  # 🚀 Hi, I'm **Akansha Ojha**
+  ### **Software Engineer • Machine Learning & Data Developer • UI/UX Designer**
+
+  <p align="center">
+    <a href="Akansha_Ojha_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_My_Resume-PDF-FF5722?style=for-the-badge&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/akansha-ojha-664539313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:akanshaojha96956@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://akansha-ojha.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
+    <a href="https://leetcode.com/u/Akanshaojha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+%26+Backend+Modules;Engineering+AI%2FML+%26+Predictive+Data+Pipelines;Crafting+Modern+UI%2FUX+Web+%26+Mobile+Interfaces;Python+%7C+SQL+%7C+Scikit-Learn+%7C+Figma" />
+  </p>
+
+</div>
+
+---
+
+### 🌟 **About Me**
+
+I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–2027) with a hands-on background in **software development, predictive machine learning, and human-centered UI/UX design**.
+
+- 💻 **Software & Data Engineering:** Experienced in building modular Python applications, data cleaning pipelines, and scalable backend logic.
+- 🤖 **Machine Learning & AI:** Focused on training, fine-tuning, and deploying predictive models (XGBoost, Random Forest, Isolation Forest).
+- 🎨 **UI/UX & Product Coordination:** Proven track record as a **Graphic Designer & Technical Coordinator** at Raman Research & Innovation, bridging technical engineering with user interface design.
+- 🧩 **Problem Solving:** Actively sharpening algorithmic thinking and core data structures via competitive programming.
+
+---
+
+### 🛠️ **Tech Stack & Capabilities**
+
+<div align="center">
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `SQL` `C` `HTML5` `CSS3` `Object-Oriented Programming (OOP)` |
+| **Machine Learning & Data** | `Scikit-Learn` `XGBoost` `Random Forest` `Pandas` `NumPy` `Feature Engineering` |
+| **Data Viz & Apps** | `Streamlit` `Matplotlib` `Seaborn` |
+| **Design & Prototyping** | `UI/UX Design` `Figma` `Wireframing` `Prototyping` `User Flows` |
+| **Tools & Platforms** | `Git` `GitHub` `VS Code` `Jupyter Notebook` `Netlify` |
+
+</div>
+
+---
+
+### 🔬 **Highlighted Projects**
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 AI-Driven Ganga-Guard System</h3>
+      <p><i>Environmental AI • Machine Learning • Data Pipelines</i></p>
+      <ul>
+        <li>Engineered a real-time river health monitoring platform using satellite and IoT data.</li>
+        <li>Trained <b>Random Forest & XGBoost</b> models to predict BOD/COD indicators, cutting sensor costs by <b>~70%</b>.</li>
+        <li>Built graph-based reverse attribution logic and Isolation Forest anomaly detection.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 Marine Fuel Consumption Prediction</h3>
+      <p><i>Python • Predictive Modeling • Data Preprocessing</i></p>
+      <ul>
+        <li>Developed a modular Python app from scratch to predict ship fuel usage from engine & weather data.</li>
+        <li>Implemented end-to-end preprocessing pipelines (imputation, scaling), achieving an <b>MAE of 2.35</b>.</li>
+        <li>Designed interactive visualization dashboards with Streamlit and Matplotlib.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧹 Multi-Format Data Cleaning & Processing Platform</h3>
+      <p><i>Streamlit • Automated Data Pipelines • Data Analytics</i></p>
+      <ul>
+        <li>Built a live Streamlit web application that automates cleaning, transformation, and feature parsing for messy multi-format datasets (CSV, Excel, JSON, TXT, TSV).</li>
+        <li>🔗 <b>Live App:</b> <a href="https://ewpqdxfwy5kyxthk7tjihs.streamlit.app/">Explore Data Cleaning App</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 **Professional Experience**
+
+#### **Graphic Designer & Technical Coordinator** | *Raman Research & Innovation Pvt. Ltd.*
+*(March 2025 – November 2025)*
+- Coordinated cross-functional engineering teams across web and mobile app development to ensure seamless design-to-code handoffs.
+- Created UI assets, branding, and interactive wireframes in Figma to enhance product feature usability.
+- Streamlined project tracking and communication clarity between technical developers and key stakeholders.
+
+---
+
+### 📊 **GitHub & Problem Solving Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akansha-Ojha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansha-Ojha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 📬 **Let's Connect & Collaborate!**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Data+Analyst;UI%2FUX+Designer;Python+Learner;SQL+Beginner;Figma+Designer" />
+  I am actively seeking opportunities for <b>Trainee Software Engineer, Data/ML Engineer, or UI/UX Design roles</b>.<br>
+  Feel free to reach out for collaborations, project discussions, or hiring inquiries!
 </p>
-
-
----
-
-## 🎯 About Me
-
-- 📊 **Beginner Data Analyst** exploring data cleaning, visualization & insights  
-- 🎨 **UI/UX Designer** skilled in Figma, prototyping, user experience flow  
-- ✨ Passionate about **data + design** and building impactful digital experiences  
-- 🧠 Beginner in **Python, SQL, Pandas, Streamlit**  
-- 🔍 Enjoy solving problems, exploring datasets & creating clean dashboards  
-
----
-
-## ⚡ Tools & Technologies  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CDB?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <a href="Akansha_Ojha_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="mailto:akanshaojha96956@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-akanshaojha96956%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akansha-ojha-664539313">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Akansha_Ojha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 🚀 Featured Project  
-
-### 🧹 **Multi–Format Data Cleaning & Processing App**
-A Streamlit-based application that helps clean messy datasets (CSV, Excel, JSON, TXT, TSV), visualize insights, and download cleaned data in one click.
-
-**Live App:** https://ewpqdxfwy5kyxthk7tjihs.streamlit.app/  
----
-
-## 🎨 UI/UX Work Examples
-
-- Designed multiple mobile & web UI screens using **Figma**  
-- Experience in:  
-  ✔ Wireframing  
-  ✔ Prototyping  
-  ✔ User Flow Design  
-  ✔ Dashboard UI  
-  ✔ Landing Page UI  
-
----
-
-## 📚 Learning Journey
-
-Currently learning:
-
-- 📊 Data Cleaning & Analysis  
-- 📈 Creating dashboards  
-- 🐍 Python for Data  
-- 🗃 SQL basics  
-- 🖥 Streamlit apps  
-- 🎨 Advanced UI/UX workflows  
-
----
-
-## 📫 Connect With Me  
-
-- 📧 **Email:** akanshaojha96956@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/akansha-ojha 
-
----
 
 <p align="center">
-  <i>“Good design + clean data = meaningful insights.”</i>
+  <sub><i>“Good design + clean data + scalable code = impactful engineering.”</i></sub>
 </p>
-
-<!--
-**Akansha-Ojha/Akansha-Ojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
