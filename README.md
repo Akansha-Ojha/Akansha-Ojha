@@ -4,7 +4,7 @@
   ### **Software Engineer • Machine Learning & Data Developer • UI/UX Designer**
 
   <p align="center">
-    <a href="AkanshaOjha_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_Resume-PDF-FF5722?style=for-the-badge&logoColor=white"/></a>
+    <a href="https://raw.githubusercontent.com/Akansha-Ojha/Akansha-Ojha/main/AkanshaOjha_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_Resume-PDF-FF5722?style=for-the-badge&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/akansha-ojha-664539313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/Akansha-Ojha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:akanshaojha96956@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -22,12 +22,12 @@
 
 ### 🌟 **About Me**
 
-I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–2027) with a hands-on background in **software development, predictive machine learning, and human-centered UI/UX design**[cite: 1]. 
+I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–2027) with a hands-on background in **software development, predictive machine learning, and human-centered UI/UX design**. 
 
-- 💻 **Software & Data Engineering:** Experienced in building modular Python applications, data cleaning pipelines, and scalable backend logic[cite: 1].
-- 🤖 **Machine Learning & AI:** Focused on training, fine-tuning, and deploying predictive models (XGBoost, Random Forest, Isolation Forest)[cite: 1].
-- 🎨 **UI/UX & Product Coordination:** Proven track record as a **Graphic Designer & Technical Coordinator** at Raman Research & Innovation, bridging technical engineering with user interface design[cite: 1].
-- 🧩 **Problem Solving:** Actively sharpening algorithmic thinking and core data structures via competitive programming[cite: 1].
+- 💻 **Software & Data Engineering:** Experienced in building modular Python applications, data cleaning pipelines, and scalable backend logic.
+- 🤖 **Machine Learning & AI:** Focused on training, fine-tuning, and deploying predictive models (XGBoost, Random Forest, Isolation Forest).
+- 🎨 **UI/UX & Product Coordination:** Proven track record as a **Graphic Designer & Technical Coordinator** at Raman Research & Innovation, bridging technical engineering with user interface design.
+- 🧩 **Problem Solving:** Actively sharpening algorithmic thinking and core data structures via competitive programming.
 
 ---
 
@@ -55,18 +55,18 @@ I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–20
       <h3>🌊 AI-Driven Ganga-Guard System</h3>
       <p><i>Environmental AI • Machine Learning • Data Pipelines</i></p>
       <ul>
-        <li>Engineered a real-time river health monitoring platform using satellite and IoT data[cite: 1].</li>
-        <li>Trained <b>Random Forest & XGBoost</b> models to predict BOD/COD indicators, cutting sensor costs by <b>~70%</b>[cite: 1].</li>
-        <li>Built graph-based reverse attribution logic and Isolation Forest anomaly detection[cite: 1].</li>
+        <li>Engineered a real-time river health monitoring platform using satellite and IoT data.</li>
+        <li>Trained <b>Random Forest & XGBoost</b> models to predict BOD/COD indicators, cutting sensor costs by <b>~70%</b>.</li>
+        <li>Built graph-based reverse attribution logic and Isolation Forest anomaly detection.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🚢 Marine Fuel Consumption Prediction</h3>
       <p><i>Python • Predictive Modeling • Data Preprocessing</i></p>
       <ul>
-        <li>Developed a modular Python app from scratch to predict ship fuel usage from engine & weather data[cite: 1].</li>
-        <li>Implemented end-to-end preprocessing pipelines (imputation, scaling), achieving an <b>MAE of 2.35</b>[cite: 1].</li>
-        <li>Designed interactive visualization dashboards with Streamlit and Matplotlib[cite: 1].</li>
+        <li>Developed a modular Python app from scratch to predict ship fuel usage from engine & weather data.</li>
+        <li>Implemented end-to-end preprocessing pipelines (imputation, scaling), achieving an <b>MAE of 2.35</b>.</li>
+        <li>Designed interactive visualization dashboards with Streamlit and Matplotlib.</li>
       </ul>
     </td>
   </tr>
@@ -87,18 +87,20 @@ I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–20
 ### 💼 **Professional Experience**
 
 #### **Graphic Designer & Technical Coordinator** | *Raman Research & Innovation Pvt. Ltd.*
-*(March 2025 – November 2025)*[cite: 1]
-- Coordinated cross-functional engineering teams across web and mobile app development to ensure seamless design-to-code handoffs[cite: 1].
-- Created UI assets, branding, and interactive wireframes in Figma to enhance product feature usability[cite: 1].
-- Streamlined project tracking and communication clarity between technical developers and key stakeholders[cite: 1].
+*(March 2025 – November 2025)*
+- Coordinated cross-functional engineering teams across web and mobile app development to ensure seamless design-to-code handoffs.
+- Created UI assets, branding, and interactive wireframes in Figma to enhance product feature usability.
+- Streamlined project tracking and communication clarity between technical developers and key stakeholders.
 
 ---
 
-### 📊 **GitHub & Problem Solving Stats**
+### 📊 **Competitive Programming & Open Source**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akansha-Ojha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansha-Ojha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <p>
+    <a href="https://leetcode.com/u/Akanshaojha/"><img src="https://img.shields.io/badge/LeetCode-Practice_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="https://github.com/Akansha-Ojha"><img src="https://img.shields.io/badge/GitHub-Repositories_%26_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
 </div>
 
 ---
@@ -111,7 +113,7 @@ I am a **Computer Science & Engineering (AI)** student at PSIT Kanpur (2023–20
 </p>
 
 <p align="center">
-  <a href="AkanshaOjha_Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/Akansha-Ojha/Akansha-Ojha/main/AkanshaOjha_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/akansha-ojha-664539313">
